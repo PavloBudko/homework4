@@ -82,18 +82,18 @@ input {
   button:hover {
     background-color: #EE3D1B;
   }
-.flex {
+.stores-icons {
     display: flex;
 }
-.flex_column {
+.body {
     display: flex;
     flex-direction: column;
    
 }
-.justify_content_sa {
+.justify_content {
     justify-content: space-around;
 }
-.justify_content_sb {
+.justify_content_footer {
     justify-content: space-between; 
 }
   .bg_pink {
@@ -102,12 +102,12 @@ input {
 .white_text {
     color: white;
 }
-.section_1 {
+.hedader {
     padding: 8vw 20vw 8vw 5vw; 
     width: 100%;
     align-items: center;
 }
-.section_2 {
+.content {
     padding: 8vw 5vw 12vw 5vw; 
     width: 100%;
 }
@@ -129,7 +129,7 @@ footer {
 .Slider img  {
     width: 145%;
 }
-.reg_form {
+.registration_form {
     width: 40vw;
 }
 .change:hover{
@@ -139,7 +139,7 @@ footer {
 .data {
     width: 45%;
 }
-.fl_col {
+.footer_colum {
     flex:1;
     padding: 3.5vw;
 }
@@ -147,13 +147,13 @@ footer {
     width: 1.5vw;
     height: 0.9vw;
 }
-.fl_text {
+.footer_text {
     padding: 0 0 0.4vw;
     color: #101010;
     font-size: 0.8vw;
     line-height: 190%;
 }
-.supp{
+.support{
     width: 20vw;
 }
 .cop {
